@@ -1,2 +1,2 @@
 Para subir a versão da imagem Docker faça o comando: docker pull tanymiranda/web-imagem:3.0
-Nessa versão o css foi implementado de forma correta e mais limpa
+
