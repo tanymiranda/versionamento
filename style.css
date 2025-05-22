@@ -1,0 +1,22 @@
+body{
+background-color: #f0f0f0;
+font-family: Arial, sans-serif;
+}
+
+h1{
+color: red;
+text-align: center;
+}
+
+h2{
+color: black;
+text-align: center;
+}
+
+h2:hover{
+color: red;
+}
+
+p{
+color: blue;
+}
