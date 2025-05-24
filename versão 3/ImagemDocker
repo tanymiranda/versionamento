@@ -1,2 +1,2 @@
-Para subir a versão da imagem Docker faça o comando: docker pull tanymiranda/web-imagem:3.3
+Para subir a versão da imagem Docker faça o comando: docker pull tanymiranda/web-imagem:3.2
 Nessa versão o formulario de login foi elaborado
